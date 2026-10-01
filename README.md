@@ -1,6 +1,6 @@
 Object Detection
 
-Object Detection is a repository developed by DefendAir Technologies focused on implementing and experimenting with object detection algorithms using Jupyter Notebooks and Python.
+Object Detection is a repository developed by DefendAir focused on implementing and experimenting with object detection algorithms using Jupyter Notebooks and Python.
 Table of Contents
 
     Overview

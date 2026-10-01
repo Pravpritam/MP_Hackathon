@@ -24,7 +24,7 @@ Features
 Installation
 Clone the repository:
 
-git clone https://github.com/DefendAir-Technologies/Object-Detection.git
+git clone https://github.com/Pravpritam/MP_Hackathon.git
 cd Object-Detection
 
 (Recommended) Create and activate a virtual environment:
